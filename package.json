@@ -1,0 +1,6 @@
+{
+  "name": "ankit-satapathy-portfolio",
+  "private": true,
+  "description": "Static portfolio site with a serverless contact function. No build step.",
+  "engines": { "node": ">=18" }
+}

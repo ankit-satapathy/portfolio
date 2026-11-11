@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ankit-satapathy.vercel.app/sitemap.xml
